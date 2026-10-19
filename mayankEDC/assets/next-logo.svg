@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <!-- Paul Rand's 28-degree tilted NeXT cube icon -->
+  <g transform="rotate(-28 100 100)">
+    <!-- Base black cube outline -->
+    <rect x="35" y="35" width="130" height="130" rx="12" fill="#0c0d0e" stroke="#2a2d33" stroke-width="4"/>
+    
+    <!-- Quadrant letters -->
+    <!-- Top-Left: N (Green) -->
+    <text x="65" y="92" font-family="'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="52" fill="#00d084" text-anchor="middle">N</text>
+    
+    <!-- Top-Right: e (Yellow lowercase) -->
+    <text x="135" y="94" font-family="'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="54" fill="#fcb900" text-anchor="middle">e</text>
+    
+    <!-- Bottom-Left: X (Red) -->
+    <text x="65" y="148" font-family="'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="52" fill="#eb144c" text-anchor="middle">X</text>
+    
+    <!-- Bottom-Right: T (Blue) -->
+    <text x="135" y="148" font-family="'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="52" fill="#0693e3" text-anchor="middle">T</text>
+  </g>
+</svg>
